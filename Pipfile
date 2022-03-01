@@ -12,6 +12,10 @@ whitenoise = "*"
 dj-database-url = "*"
 gunicorn = "*"
 django-cors-headers = "*"
+django-extensions = "*"
+djoser = "*"
+ipython = "*"
+pillow = "*"
 
 [dev-packages]
 
